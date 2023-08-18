@@ -14,3 +14,4 @@ Now, in the mentioned article, the hyperparameters of the CNN neural network are
 The accuracy of the CNN network with these hyperparameters (position of particles) is As a result, the output of this method is considered as the desired hyperparameters for CNN neural network training, and then by obtaining the corresponding weights, the accuracy of the network is measured on the test data.
 In this article, the accuracy on different data sets is obtained with the help of this method and compared with the values obtained from previous methods as well as the random selection of hyperparameter values, and the superiority of this method is obvious in many comparisons.
 In this article, we have implemented the method described in the article after describing the similar and inspiring algorithms of the authors in the next chapter, and our target dataset in this article was the MNIST dataset.
+* For more information contact me with my email " Amirazad1380@gmail.com "
